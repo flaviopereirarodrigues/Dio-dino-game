@@ -1,2 +1,2 @@
 # Dio-dino-game
-Projeto Dio
+Projeto Dio, Jogo do Dinosauro do chrome
